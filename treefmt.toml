@@ -1,0 +1,3 @@
+[formatter.markdown]
+command = "mdl"
+includes = [ "*.md" ]
