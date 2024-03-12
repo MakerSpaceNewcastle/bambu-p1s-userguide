@@ -50,7 +50,7 @@
 4. The printer status should now be shown in the "Device" tab  
    ![Bambu Studio devices tab printer added](./images/bambu_studio_devices_tab.png)
 
-If you do not see the printer in the device list then mostl likely your machine is not properly configured to act as an SSDP client.
+If you do not see the printer in the device list then most likely your machine is not properly configured to act as an SSDP client.
 See [Simple Service Discovery Protocol](https://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol) and [Printer Network Ports](https://wiki.bambulab.com/en/general/printer-network-ports) for more info.
 TL;DR: open UDP port 2021 on your machines firewall and try again.
 
