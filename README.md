@@ -1,5 +1,7 @@
 # Maker Space Bambu Labs P1S user guide
 
+**Note**: this documentation has moved to https://wiki.makerspace.org.uk/equipment/bambulab_p1s/user_guide
+
 - [Useful links](#useful-links)
 - [Bambu Studio setup](#bambu-studio-setup)
   - [Install](#install)
